@@ -1,4 +1,4 @@
-# Hello, my name is 🤓 Rafael Braga.
+# Hello, my name is👨🏻‍💻Rafael Braga.
 
 First and foremost, I'm an entrepreneur.
 
