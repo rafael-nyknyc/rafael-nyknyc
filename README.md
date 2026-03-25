@@ -6,6 +6,15 @@ Entrepreneur first.
 Network and systems administrator with a passion for Linux server hardening and digital forensics.
 Currently contributing as a translator to the SeedSigner project, specializing in air-gapped, Bitcoin-only setups.
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-nyknyc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rafael-nyknyc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
 ### 🧰 Languages and Tools
 
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
@@ -15,3 +24,4 @@ Currently contributing as a translator to the SeedSigner project, specializing i
 ![Moodle](https://img.shields.io/badge/Moodle-%23F98012.svg?style=for-the-badge&logo=moodle&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SeedSigner](https://img.shields.io/badge/SeedSigner-%23000000.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
